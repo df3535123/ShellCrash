@@ -149,15 +149,3 @@ ubus/iproute-doc	极低		缺少时无法正常获取本机host地址
 
 
 
-更新日志：
---
-
-### [点击查看](https://github.com/juewuy/ShellCrash/releases)
-
-交流反馈：
---
-### [TG讨论组](https://t.me/ShellClash) 
-
-机场推荐：
---
-#### [大米-群友力荐，流媒体解锁，月付推荐](https://1s.bigmeok.me/user#/register?code=2PuWY9I7)<br>
